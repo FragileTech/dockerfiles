@@ -31,4 +31,4 @@ scipy==1.4.1
 selenium==3.141.0
 setproctitle==1.1.10
 streamz==0.5.2
-PyYAML==5.3.1
+PyYAML==5.4
